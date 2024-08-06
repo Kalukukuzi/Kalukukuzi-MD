@@ -17,7 +17,6 @@
 <a href="https://github.com/Kalukukuzi/Kalukukuzi-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalukukuzi/Kalukukuzi-Md?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Kalukukuzi/Kalukukuzi-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
-<a><img src='https://imgur.com/a/IIoePGk'/></a><a><img src='https://imgur.com/a/IIoePGk'/></a>
 #
 
 ## Kalukukuzi-MD Deployment Methods
